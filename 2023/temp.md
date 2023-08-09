@@ -1,16 +1,4 @@
-<style>
-  .green-background {
-    background-color: green; /* 緑色の背景色 */
-    padding: 5px;
-    text-align: center; /* テキストを中央に寄せる */
-    font-size: 1.3rem;
-  }
-
-</style>
-
-<div class="green-background">
-  <h3>2023/8/9 Happiness Chainでの学習1日目</h3>
-</div>
+# 2023/8/9 Happiness Chainでの学習1日目
 
 ## 取り組んだ課題一覧
 - Progate Rubyコース
