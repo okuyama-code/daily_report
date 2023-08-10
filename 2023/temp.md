@@ -1,3 +1,10 @@
+### ファイル複製ショートカット
+ファイル選択 ctrl + c, ctrl + v
+
+### URL
+https://github.com/okuyama-code/daily_report/tree/main/2023/08
+
+
 # 2023/8/9 Happiness Chainでの学習1日目
 
 ## 取り組んだ課題一覧
