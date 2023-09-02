@@ -9,6 +9,10 @@ https://qiita.com/ooyy0121/items/383aa98d7d5c17a1278c
 ~/dev/day
 ```
 
+## chrome 
+## tab　複製
+Alt + D + Enter
+
 <br>
 
 # モチベーションが下がったときに読む
